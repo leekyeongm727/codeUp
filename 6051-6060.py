@@ -8,6 +8,7 @@ else:
 #6052 입력된 값이 0이면 False, 0이 아니면 True 를 출력_ bool( ) 을 이용
 n=int(input())
 print(bool(n))
+
 #6053 정수값이 입력될 때, 그 불 값을 반대로 출력
 n=int(input())
 n=bool(n)
